@@ -1,4 +1,4 @@
-# [All the Mods 9-0.2.56](https://www.curseforge.com/minecraft/modpacks/all-the-mods-9) on Curseforge
+# [All the Mods 9 no frills](https://www.curseforge.com/minecraft/modpacks/all-the-mods-9-no-frills) on Curseforge
 
 <!-- toc -->
 
@@ -37,7 +37,7 @@ As the end user, you are repsonsible for accepting the EULA from Mojang to run t
 These environment variables can be set at run time to override their defaults.
 
 * JVM_OPTS "-Xms2048m -Xmx4096m"
-* MOTD "All the Mods 9-0.2.56 Server Powered by Docker"
+* MOTD "All the Mods No Frills Server Powered by Docker"
 * LEVEL world
 
 ### Adding Minecraft Operators
@@ -58,7 +58,7 @@ This container is designed for [Unraid](https://unraid.net) so the user in the c
 ### Resetting
 If the install is incomplete for some reason.  Deleting the downloaded server file in /data will restart the install/upgrade process.
 
-## Source
+## Original Source
 Github: https://github.com/Goobaroo/docker-allthemods9
 
-Docker: https://hub.docker.com/repository/docker/goobaroo/allthemods9
+Former Docker: https://hub.docker.com/repository/docker/goobaroo/allthemods9
